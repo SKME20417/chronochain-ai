@@ -1,0 +1,42 @@
+date,sku,product_category,city,state,demand_units,inventory_units,unit_price_usd,supplier,lead_time_days
+2024-01-01,SKU-T1001,Electronics,New York,NY,120,500,299.99,EastCoast_Electronics,7
+2024-01-02,SKU-T1001,Electronics,New York,NY,135,480,299.99,EastCoast_Electronics,7
+2024-01-03,SKU-T1001,Electronics,New York,NY,150,455,299.99,EastCoast_Electronics,7
+2024-01-04,SKU-T1001,Electronics,New York,NY,165,430,299.99,EastCoast_Electronics,7
+2024-01-05,SKU-T1001,Electronics,New York,NY,180,400,299.99,EastCoast_Electronics,7
+
+2024-01-01,SKU-T2002,Home Appliances,Chicago,IL,90,380,699.00,Midwest_Distribution,10
+2024-01-02,SKU-T2002,Home Appliances,Chicago,IL,105,360,699.00,Midwest_Distribution,10
+2024-01-03,SKU-T2002,Home Appliances,Chicago,IL,120,335,699.00,Midwest_Distribution,10
+2024-01-04,SKU-T2002,Home Appliances,Chicago,IL,135,310,699.00,Midwest_Distribution,10
+2024-01-05,SKU-T2002,Home Appliances,Chicago,IL,150,285,699.00,Midwest_Distribution,10
+
+2024-01-01,SKU-T3003,Grocery,Seattle,WA,300,1000,4.99,NorthWest_Foods,3
+2024-01-02,SKU-T3003,Grocery,Seattle,WA,330,960,4.99,NorthWest_Foods,3
+2024-01-03,SKU-T3003,Grocery,Seattle,WA,360,920,4.99,NorthWest_Foods,3
+2024-01-04,SKU-T3003,Grocery,Seattle,WA,390,880,4.99,NorthWest_Foods,3
+2024-01-05,SKU-T3003,Grocery,Seattle,WA,420,840,4.99,NorthWest_Foods,3
+
+2024-01-01,SKU-T4004,Pharmaceuticals,Boston,MA,70,260,45.75,EastCoast_Pharma,5
+2024-01-02,SKU-T4004,Pharmaceuticals,Boston,MA,85,240,45.75,EastCoast_Pharma,5
+2024-01-03,SKU-T4004,Pharmaceuticals,Boston,MA,100,215,45.75,EastCoast_Pharma,5
+2024-01-04,SKU-T4004,Pharmaceuticals,Boston,MA,115,190,45.75,EastCoast_Pharma,5
+2024-01-05,SKU-T4004,Pharmaceuticals,Boston,MA,130,165,45.75,EastCoast_Pharma,5
+
+2024-01-01,SKU-T5005,Automotive Parts,Detroit,MI,140,520,129.99,AutoSupply_Midwest,12
+2024-01-02,SKU-T5005,Automotive Parts,Detroit,MI,155,500,129.99,AutoSupply_Midwest,12
+2024-01-03,SKU-T5005,Automotive Parts,Detroit,MI,170,470,129.99,AutoSupply_Midwest,12
+2024-01-04,SKU-T5005,Automotive Parts,Detroit,MI,185,440,129.99,AutoSupply_Midwest,12
+2024-01-05,SKU-T5005,Automotive Parts,Detroit,MI,200,410,129.99,AutoSupply_Midwest,12
+
+2024-01-01,SKU-T6006,Consumer Goods,Los Angeles,CA,160,600,19.99,WestCoast_Consumer,6
+2024-01-02,SKU-T6006,Consumer Goods,Los Angeles,CA,175,580,19.99,WestCoast_Consumer,6
+2024-01-03,SKU-T6006,Consumer Goods,Los Angeles,CA,190,560,19.99,WestCoast_Consumer,6
+2024-01-04,SKU-T6006,Consumer Goods,Los Angeles,CA,205,535,19.99,WestCoast_Consumer,6
+2024-01-05,SKU-T6006,Consumer Goods,Los Angeles,CA,220,510,19.99,WestCoast_Consumer,6
+
+2024-01-01,SKU-T7007,Industrial Supplies,Houston,TX,110,450,89.50,Gulf_Industrial,8
+2024-01-02,SKU-T7007,Industrial Supplies,Houston,TX,125,430,89.50,Gulf_Industrial,8
+2024-01-03,SKU-T7007,Industrial Supplies,Houston,TX,140,405,89.50,Gulf_Industrial,8
+2024-01-04,SKU-T7007,Industrial Supplies,Houston,TX,155,380,89.50,Gulf_Industrial,8
+2024-01-05,SKU-T7007,Industrial Supplies,Houston,TX,170,355,89.50,Gulf_Industrial,8

@@ -1,0 +1,155 @@
+/* =========================
+   Global Base
+========================= */
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: linear-gradient(180deg, #f4f6f9 0%, #eef2f7 100%);
+  color: #1f2937;
+}
+
+/* =========================
+   Header / Navbar
+========================= */
+header {
+  background: linear-gradient(90deg, #002b5c, #003a8f);
+  color: white;
+  padding: 14px 28px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.exl-logo {
+  height: 36px;
+  background: white;
+  padding: 4px 6px;
+  border-radius: 4px;
+}
+
+.brand-text {
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+}
+
+.nav-links a {
+  color: #e5ecff;
+  margin-left: 18px;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 500;
+  transition: color 0.2s ease, border-bottom 0.2s ease;
+}
+
+.nav-links a:hover {
+  color: #ffffff;
+  border-bottom: 2px solid #9cc3ff;
+  padding-bottom: 4px;
+}
+
+/* =========================
+   Layout
+========================= */
+.container {
+  max-width: 1280px;
+  margin: 32px auto;
+  padding: 0 24px;
+}
+
+/* =========================
+   Cards
+========================= */
+.card {
+  background: white;
+  border-radius: 10px;
+  padding: 28px;
+  margin-bottom: 28px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  border-left: 4px solid #003a8f;
+}
+
+.card h1,
+.card h2,
+.card h3 {
+  margin-top: 0;
+  color: #002b5c;
+}
+
+/* =========================
+   Buttons
+========================= */
+button {
+  background: linear-gradient(90deg, #003a8f, #0057b7);
+  color: white;
+  padding: 10px 18px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+button.secondary {
+  background: linear-gradient(90deg, #2563eb, #1d4ed8);
+}
+
+/* =========================
+   Tables
+========================= */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 14px;
+}
+
+th,
+td {
+  border: 1px solid #e5e7eb;
+  padding: 10px;
+  font-size: 13px;
+  text-align: left;
+}
+
+th {
+  background: #f1f5f9;
+  font-weight: 600;
+}
+
+/* =========================
+   Popups / Alerts
+========================= */
+.popup {
+  background: linear-gradient(90deg, #ecfdf5, #d1fae5);
+  color: #065f46;
+  padding: 14px;
+  border-radius: 6px;
+  margin-top: 16px;
+  font-weight: 500;
+}
+
+/* =========================
+   Forms
+========================= */
+input[type="file"],
+select {
+  margin-top: 10px;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #cbd5e1;
+}

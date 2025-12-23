@@ -1,0 +1,28 @@
+date,sku,product_category,city,state,demand_units,inventory_units,unit_price_usd,supplier,lead_time_days
+2024-02-01,SKU-S9001,Electronics,San Jose,CA,180,720,349.99,WestCoast_Electronics,7
+2024-02-02,SKU-S9001,Electronics,San Jose,CA,210,680,349.99,WestCoast_Electronics,7
+2024-02-03,SKU-S9001,Electronics,San Jose,CA,240,640,349.99,WestCoast_Electronics,7
+
+2024-02-01,SKU-S9102,Home Appliances,Dallas,TX,120,400,799.00,Central_Distribution,10
+2024-02-02,SKU-S9102,Home Appliances,Dallas,TX,150,360,799.00,Central_Distribution,10
+2024-02-03,SKU-S9102,Home Appliances,Dallas,TX,180,330,799.00,Central_Distribution,10
+
+2024-02-01,SKU-S9203,Pharmaceuticals,Boston,MA,90,260,42.50,EastCoast_Pharma,5
+2024-02-02,SKU-S9203,Pharmaceuticals,Boston,MA,110,230,42.50,EastCoast_Pharma,5
+2024-02-03,SKU-S9203,Pharmaceuticals,Boston,MA,130,200,42.50,EastCoast_Pharma,5
+
+2024-02-01,SKU-S9304,Grocery,Seattle,WA,320,980,6.75,NorthWest_Foods,3
+2024-02-02,SKU-S9304,Grocery,Seattle,WA,360,940,6.75,NorthWest_Foods,3
+2024-02-03,SKU-S9304,Grocery,Seattle,WA,400,900,6.75,NorthWest_Foods,3
+
+2024-02-01,SKU-S9405,Automotive Parts,Detroit,MI,140,520,129.99,AutoSupply_Midwest,12
+2024-02-02,SKU-S9405,Automotive Parts,Detroit,MI,170,480,129.99,AutoSupply_Midwest,12
+2024-02-03,SKU-S9405,Automotive Parts,Detroit,MI,200,440,129.99,AutoSupply_Midwest,12
+
+2024-02-01,SKU-S9506,Consumer Goods,Miami,FL,100,350,24.99,Southeast_Consumer,6
+2024-02-02,SKU-S9506,Consumer Goods,Miami,FL,125,320,24.99,Southeast_Consumer,6
+2024-02-03,SKU-S9506,Consumer Goods,Miami,FL,150,290,24.99,Southeast_Consumer,6
+
+2024-02-01,SKU-S9607,Industrial Supplies,Phoenix,AZ,95,300,92.00,SouthWest_Industrial,9
+2024-02-02,SKU-S9607,Industrial Supplies,Phoenix,AZ,120,270,92.00,SouthWest_Industrial,9
+2024-02-03,SKU-S9607,Industrial Supplies,Phoenix,AZ,145,240,92.00,SouthWest_Industrial,9
